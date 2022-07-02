@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Edwin Zishiri 
-- 👀 I’m broadly interested in how technology can be used and applied to improve human quality of life. More specifically I am interested in applications of VR technology, Machine Learning, and Distributed Systems.
-- 🌱 I’m currently learning Typescript and Python
+- 👀 I’m broadly interested in how technology can be used and applied to improve human quality of life, with art as the approach. I hope to turn science fiction into reality with my work. More specifically I am interested in creative applications of VR technology and Machine Learning. 
 
 <!---
 ezishiri/ezishiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
